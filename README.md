@@ -37,7 +37,6 @@
   </a>
 </div>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./public/icons/skills/javascript-colored.svg" width="40" height="30" alt="JavaScript" /></a>
@@ -58,9 +57,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itisramzan&show_icons=true&locale=en&layout=compact" alt="itisramzan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisramzan&" alt="itisramzan" /></p>
-
-
-wow
-<div align="center">
-    <img src="https://david-dm.org/itisRamzan/fms.svg" alt="Ramzan"/>
-</div>
