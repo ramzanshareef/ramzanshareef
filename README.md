@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramzan Shareef</h1>
 <h3 align="center">A aspiring developer working on Web Development</h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/itisRamzan/count.svg?"  />
-</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itisRamzan&style=flat-square&color=blue"/>
+</div>
+<br>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itisramzan" alt="itisramzan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itisramzan" target="blank"><img src="https://img.shields.io/twitter/follow/itisramzan?logo=twitter&style=for-the-badge" alt="itisramzan" /></a> </p>
