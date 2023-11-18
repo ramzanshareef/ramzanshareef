@@ -24,11 +24,19 @@
 - 📫 Reach me at **mail.ramzanshareef@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/itisramzan" target="blank"><img align="center" src="./public/icons/socials/twitter.svg" alt="itisramzan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itisramzan" target="blank"><img align="center" src="./public/icons/socials/linkedin.svg" alt="itisramzan" height="30" width="40" /></a>
-<a href="https://instagram.com/itisramzan" target="blank"><img align="center" src="./public/icons/socials/instagram.svg" alt="itisramzan" height="30" width="40" /></a>
-</p>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/itisRamzan">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.twitter.com/itisRamzan">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/itisRamzan">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -50,3 +58,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itisramzan&show_icons=true&locale=en&layout=compact" alt="itisramzan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisramzan&" alt="itisramzan" /></p>
+
+
+wow
+<div align="center">
+    <img src="https://david-dm.org/itisRamzan/fms.svg" alt="Ramzan"/>
+</div>
