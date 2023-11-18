@@ -2,7 +2,7 @@
 <h3 align="center">A aspiring developer working on Web Development</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itisRamzan&style=flat-square&color=blue"/>
+  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fwww.github.com%2FitisRamzan&countColor=%23263759&style=flat"/>
 </div>
 <br>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=itisramzan" alt="itisramzan" /></a> </p>
@@ -54,6 +54,7 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/heroku-colored.svg" width="40" height="30" alt="Heroku" /></a>
 </p>
 
+###  My Stats :
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itisramzan&show_icons=true&locale=en&layout=compact" alt="itisramzan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisramzan&" alt="itisramzan" /></p>
