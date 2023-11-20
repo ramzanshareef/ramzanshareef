@@ -37,7 +37,7 @@
   </a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./public/icons/skills/javascript-colored.svg" width="40" height="30" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/python-colored.svg" width="40" height="30" alt="Python" /></a>
@@ -52,6 +52,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/express-colored.svg" width="40" height="30" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/mongodb-colored.svg" width="40" height="30" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/mysql-colored.svg" width="40" height="30" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/heroku-colored.svg" width="40" height="30" alt="Heroku" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/mysql-colored.svg" width="40" height="30" alt="mysql" /></a>
 </p>
 
 ###  My Stats :
