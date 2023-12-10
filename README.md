@@ -56,6 +56,6 @@
 </p>
 
 ###  My Stats :
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itisramzan&show_icons=true&locale=en&layout=compact" alt="itisramzan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itisramzan&show_icons=true&locale=en&layout=compact" alt="itisramzan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itisramzan&" alt="itisramzan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itisramzan&" alt="itisramzan" /></p>
