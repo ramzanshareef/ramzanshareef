@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Food ReDistribution System](https://github.com/itisRamzan/fms)
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB**
+- 🌱 I’m currently learning **NextJS, ExpressJS & MongoDB**
 
 - 👯 I’m looking to collaborate on **any web-based projects**
 
