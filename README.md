@@ -50,11 +50,3 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/mysql-colored.svg" width="40" height="30" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/heroku-colored.svg" width="40" height="30" alt="Heroku" /></a>
 </p>
-
-<h3 align="center">My GitHub Stats:</h3>
-<div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisRamzan&hide_progress=true&theme=default" alt=itisRamzan />
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itisRamzan&theme=default" alt="itisRamzan" /></p>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itisRamzan&theme=default" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itisRamzan&theme=default" height="180em" />
-</div>
