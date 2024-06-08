@@ -21,16 +21,16 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ramzanshareef">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="./public/icons/socials/linkedin.svg" width="40" height="30" alt="LinkedIn" />
   </a>
   <a href="https://www.twitter.com/itisRamzan">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  <img src="./public/icons/socials/twitter.svg" width="40" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:mail.ramzanshareef@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="./public/icons/socials/gmail.svg" width="40" height="30" alt="Gmail" />
   </a>
   <a href="https://www.ramzanshareef.me">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC9UlEQVR4nO2azWsTQRTAf1tjKeLHRawV/QMEFbT2JvQgaqioNzF+oHioeLQN1YPeFARtTfHUu58HT3r3KFoJBT2o6KnVKqKHpopfNTLwAsO4iZtss8ms7wdDlsnMmzeZN++9mQ0oiqIoiqIoiqIoiRAAvcAR4IwU87xNvksta4EC8BYoVynmu2tANykiAEaA+RoTd0sJyKfBIrqA2yETnJX6UWBMnmdD2t0SGV4ShEz+KbAb6Ahpb+r2AMWQH8FLSxhxJmJWekmEfhnxFXbfYTxjDTBnTcCYer2MOz7BOFFvKDhmH2Xlwyyh6FiQFwROqDN7vlGylpwZX3zBdkvpd1UcXlRM3/eWPJMstT2HLYVNFIjLXUveITwgbyl8ZRHkXfUtGgxbChvl4zJqyRvCA3L/+xbodVLeuE7wgyVvKx6GwWwMWQOWnGlfwiBypK0oXpSkpl5Mn6mY2WTbpMKFBmRcd1Jh7+4I8s6BZjyiJWScyZfl1sg7AjnKlp3tkK1xHB5wzN6UGz7tfZeukB+hLOntHTngjEmos719pdz0+UKkQiDJUamOK7E5MXtvVz6MblntmRoTnxZvb5xoagkkoclZ1+I5qUvViiuK8hedQB9wEBgEzkoZlLo+aZMqNgOXgEnge4QQaNo8AS4Cm/CUpcBJ4Hkdsb9aeQacaPBA1RKOAm+qTOY38AK4B0wAl6VMSN1LaRPW97XcN7Yt64AHIYqXJJ/fB6yKIMe02S9pcFj2eB/ooc3YBXx2FP0oDm55DLmm7zmRZcv+BOykTTgO/LCUW5Cjb5yJu6wQmQuOszxGiznt7FmTy/c3cbx+GcP2KadoEXuBn5YyxuNvSGDcHued4S/gAAmzxfnHx2REB7dYrAQeW+PPS76RCBl541sZ3Bxv15M8q4FXlh5Tkn80nfPWoN/EGlrFRuCrpY/Rral0AF+sAS/QeoacrRDnRUwkKnvvUVIm9w/Mny8eWr6o6SwDdshnu9ApIdLkC4qiKIqiKAoR+ANHc0fJ9QoTfAAAAABJRU5ErkJggg==" alt="Gmail Badge" />
+    <img src="./public/icons/socials/portfolio.svg" width="40" height="30" alt="Website" />
   </a>
 </div>
 
