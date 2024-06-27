@@ -57,9 +57,3 @@
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/msexcel-colored.svg" width="40" height="30" alt="MS Excel" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/vscode-colored.svg" width="40" height="30" alt="VS Code" /></a>
 </p>
-
-<h3>My GitHub Stats:</h3>
-<div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisRamzan&hide_progress=true&theme=default" alt="itisRamzan" style="margin-bottom: 2rem;" />
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itisRamzan&theme=default" alt="itisRamzan" /></p>
-</div>
