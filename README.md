@@ -23,18 +23,10 @@
 </h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ramzanshareef">
-    <img src="./public/icons/socials/linkedin.svg" width="40" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitter.com/itisRamzan">
-  <img src="./public/icons/socials/twitter.svg" width="40" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mail.ramzanshareef@gmail.com">
-    <img src="./public/icons/socials/gmail.svg" width="40" height="30" alt="Gmail" />
-  </a>
-  <a href="https://www.ramzanshareef.me">
-    <img src="./public/icons/socials/portfolio.svg" width="40" height="30" alt="Website" />
-  </a>
+  <a href="https://www.linkedin.com/in/ramzanshareef"><img src="./public/icons/socials/linkedin.svg" width="40" height="30" alt="LinkedIn" /></a>
+  <a href="https://www.twitter.com/itisRamzan"><img src="./public/icons/socials/twitter.svg" width="40" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:mail.ramzanshareef@gmail.com"><img src="./public/icons/socials/gmail.svg" width="40" height="30" alt="Gmail" /></a>
+  <a href="https://www.ramzanshareef.me"><img src="./public/icons/socials/portfolio.svg" width="40" height="30" alt="Website" /></a>
 </div>
 
 <h3 align="left">Skills:</h3>
@@ -73,11 +65,7 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/npm-colored.svg" width="40" height="30" alt="NPM" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/postman-colored.svg" width="40" height="30" alt="Postman" /></a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/yarn-colored.svg" width="40" height="30" alt="Photoshop" /></a>
-<a href="https://www.vercel.com" target="_blank" rel="noreferrer">
-<img src="./public/icons/skills/vercel-colored.svg" width="40" height="30" alt="Vercel" />
-</a>
-<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-<img src="./public/icons/skills/copilot.svg" width="40" height="30" alt="CoPilot" />
-</a>
+<a href="https://www.vercel.com" target="_blank" rel="noreferrer"><img src="./public/icons/skills/vercel-colored.svg" width="40" height="30" alt="Vercel" /></a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="./public/icons/skills/copilot.svg" width="40" height="30" alt="CoPilot" /></a>
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/msexcel-colored.svg" width="40" height="30" alt="MS Excel" /></a>
 </p>
