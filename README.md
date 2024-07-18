@@ -56,8 +56,8 @@
 <a href="https://canva.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/canva-colored.svg" width="40" height="30" alt="Canva" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/heroku-colored.svg" width="40" height="30" alt="Heroku" /></a>
 <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/cloudinary.svg" width="40" height="30" alt="Cloudinary" /></a>
-<a href="https://stripe.com" target="_blank" rel="noreferrer"><img src="./public/icons/skills/stripe.svg" width="40" height="30" alt="Stripe" /></a>
-<a href="https://stripe.com" target="_blank" rel="noreferrer"><img src="./public/icons/skills/razorpay.svg" width="40" height="30" alt="Stripe" /></a>
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/stripe.svg" width="40" height="30" alt="Stripe" /></a>
+<a href="https://razorpay.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/razorpay.svg" width="40" height="30" alt="Stripe" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/vscode-colored.svg" width="40" height="30" alt="VS Code" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/googlecloud-colored.svg" width="40" height="30" alt="Google Cloud" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./public/icons/skills/docker-colored.svg" width="40" height="30" alt="Docker" /></a>
