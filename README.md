@@ -1,4 +1,4 @@
-<h1 align="center">Hey Digital Voyager! ✨ I'm
+<h1 align="center">Hey There! ✨ I'm
 <br>
   <a href="https://www.ramzanshareef.me" target="_blank">Ramzan Shareef</a>
 </h1>
