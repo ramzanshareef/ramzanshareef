@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with understanding **System Designs**
 
-- 🔍 Explore my <a href="https://www.ramzanshareef.vercel.app/creations" target="_blank">**Creations**</a> to get a glimpse of my thoughts and ideas
+- 🔍 Explore my <a href="https://ramzanshareef.vercel.app/creations" target="_blank">**Creations**</a> to get a glimpse of my thoughts and ideas
 
 - 📫 Connect with me at **mail.ramzanshareef@gmail.com**
 
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/ramzanshareef"><img src="./public/icons/socials/linkedin.svg" width="40" height="30" alt="LinkedIn" /></a>
   <a href="https://www.twitter.com/itisRamzan"><img src="./public/icons/socials/twitter.svg" width="40" height="30" alt="LinkedIn" /></a>
   <a href="mailto:mail.ramzanshareef@gmail.com"><img src="./public/icons/socials/gmail.svg" width="40" height="30" alt="Gmail" /></a>
-  <a href="https://www.ramzanshareef.vercel.app"><img src="./public/icons/socials/portfolio.svg" width="40" height="30" alt="Website" /></a>
+  <a href="https://ramzanshareef.vercel.app"><img src="./public/icons/socials/portfolio.svg" width="40" height="30" alt="Website" /></a>
 </div>
 
 <h3 align="left">Skills:</h3>
